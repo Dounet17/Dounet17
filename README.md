@@ -1,6 +1,6 @@
 # Hi, I'm Titouan Pasquier
 
-### Computer Science Master's Student at Université de Caen Normandie
+### French Computer Science Master's Student at Université de Caen Normandie
 
 I specialize in software architecture, artificial intelligence, and multi-agent systems. I enjoy designing complex backend architectures, exploring algorithmic decision-making, and working with Large Language Models (LLMs).
 
