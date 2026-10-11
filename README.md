@@ -1,11 +1,11 @@
 # Hi, I'm Titouan Pasquier
 
-### French Computer Science Master's Student at Université de Caen Normandie
+### Computer Science Master's Student at Université de Caen Normandie
 
 I specialize in software architecture, artificial intelligence, and multi-agent systems. I enjoy designing complex backend architectures, exploring algorithmic decision-making, and working with Large Language Models (LLMs).
 
 ### Current Work & Focus
-* **AI & Virtual Environments:** Currently working on *Globanova*, a project involving prompt engineering and LLM integration to simulate emotional analysis for a conversational AI in a 3D environment.
+* **Conversational AI & LLMs:** Working on advanced prompt engineering and LLM integration to simulate emotional analysis for conversational agents in virtual 3D environments.
 * **Multi-Agent Systems:** Developing and optimizing generic frameworks in Java for autonomous agents making decisions under partial information (e.g., Belief State, second-order reasoning).
 * **Software Engineering:** Building robust backend logic and exploring scalable architectures.
 
